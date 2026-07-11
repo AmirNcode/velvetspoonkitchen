@@ -697,6 +697,14 @@ textarea:focus {
     display: grid;
   }
 
+  .about-image::before {
+    left: -8px;
+  }
+
+  .about-image::after {
+    right: -8px;
+  }
+
   .button {
     width: 100%;
   }

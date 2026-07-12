@@ -1,0 +1,19 @@
+# Velvet Spoon Kitchen
+
+Velvet Spoon Kitchen is Mandana's personal catering business in Vancouver, British Columbia, Canada.
+
+## Services
+
+- Personal catering for intimate dinners, birthdays, showers, and celebrations in Vancouver.
+- Hands-on private cooking workshops for social gatherings and special events.
+- Hands-on corporate cooking workshops for team-building, client events, and office occasions.
+
+## Contact
+
+- Phone: +1 (778) 223-1320
+- Email: mandanadrisi@yahoo.com
+- Instagram: https://www.instagram.com/velvetspoonkitchen/
+
+## Site intent
+
+Use the website's inquiry form to request catering or a workshop. Include the event date, group size, event type, and details.
